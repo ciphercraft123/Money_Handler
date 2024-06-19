@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516663854149",
+    "project_id": "money-handler-ee9af",
+    "storage_bucket": "money-handler-ee9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516663854149:android:18700732b69d1efb3d0f2c",
+        "android_client_info": {
+          "package_name": "com.example.money_handler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516663854149-4djtv46eg4083phsm3k5n95liiiu5gjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvV3Mo3zzop16QfvW7j-ACyZ-3W_JR064"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516663854149-4djtv46eg4083phsm3k5n95liiiu5gjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
